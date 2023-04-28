@@ -1,9 +1,9 @@
 ---
-title: "Testing"
+title: "Testing Deployment"
 description: "meta description"
 date: 2022-01-24T18:19:25+06:00
 categories: ["reviews"]
-tags: ["hotpot"]
+tags: ["test"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
