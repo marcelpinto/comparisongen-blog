@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://dosely.netlify.app"
+baseURL = "https://www.comparisongen.com/"
 title = "Dosely | Find top comparisons"
 theme = "geeky-hugo"
 languageName = "En"
