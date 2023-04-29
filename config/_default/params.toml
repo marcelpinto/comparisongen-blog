@@ -2,22 +2,23 @@
 # favicon
 favicon = "images/favicon.png"
 # logo
-logo = "images/logo.png"
+logo = "images/comparison-logo-large.png"
 # use `x` with logo_width, example: "100x".
 # Note: logo_width is not work with .svg file
-logo_width = "150x"
+logo_width = "180x"
+logo_heigth = "70x"
 # logo text will only show when logo is missing.
-logo_text = "Geeky"
+logo_text = "ComparisonGen"
 # navbar fixed to top
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
-description = "Dosely Blog"
-author = "Dosely"
+description = "ComparisonGen: using generative AI to create daily comparisons from thousands of user reviews."
+author = "ComparisonGen.com"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
 address = "-"
 mobile = "-"
-email = "info@dosely.com"
+email = "info@comparisongen.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # search
@@ -61,11 +62,11 @@ preloader = "images/banner.png" # use jpg, png, svg or gif format.
 # Banner
 [banner]
 enable = true
-title_large = "Dose**ly**"
-title_small = "Your daily dose of generated AI stuff"
+title_large = "Comparison**Gen**"
+title_small = "Daily AI reviews"
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
-content = "Find all type of user generated content summarized by AI"
+content = "Using generative AI to create daily comparisons from thousands of user reviews."
 button_label = "Reviews"
 button_link = "about/"
 
