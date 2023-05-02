@@ -2,7 +2,7 @@
 title: "Best Bread Machines in 2023"
 description: "AI comparison of the Bread Machines best seller in 2023"
 date: "2023-05-02T12:58:39.774Z"
-categories: ["Kitchen & Dinning"]
+categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "Bread Machines"]
 type: "regular" # available types: [featured/regular]
 draft: false

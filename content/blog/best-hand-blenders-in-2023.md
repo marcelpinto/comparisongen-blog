@@ -2,7 +2,7 @@
 title: "Best Hand Blenders in 2023"
 description: "AI comparison of the Hand Blenders best seller in 2023"
 date: "2023-05-02T12:58:40.572Z"
-categories: ["Kitchen & Dinning"]
+categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "Hand Blenders"]
 type: "regular" # available types: [featured/regular]
 draft: false
