@@ -7,29 +7,24 @@ url = ""
 weight = 1
 
 [[main]]
-name = "About"
-url = "about/"
+name = "Contact"
+url = "contact/"
 weight = 2
 
 [[main]]
-name = "Contact"
-url = "contact/"
-weight = 3
-
-[[main]]
-name = "Pages"
+name = "Reviews"
 url = "#"
 weight = 3
 hasChildren = true
 
   [[main]]
-  parent = "Pages"
+  parent = "Reviews"
   name = "Tags"
   url = "tags/"
   weight = 1
 
   [[main]]
-  parent = "Pages"
+  parent = "Reviews"
   name = "Categories"
   url = "categories/"
   weight = 2
@@ -39,11 +34,6 @@ hasChildren = true
 name = "Home"
 url = "/"
 weight = 1
-
-[[footer]]
-name = "About"
-url = "about/"
-weight = 2
 
 [[footer]]
 name = "Contact"
