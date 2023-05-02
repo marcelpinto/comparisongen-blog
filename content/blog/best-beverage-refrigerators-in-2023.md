@@ -2,7 +2,7 @@
 title: "Best Beverage Refrigerators in 2023"
 description: "AI comparison of the Beverage Refrigerators best seller in 2023"
 date: "2023-05-02T11:36:12.396Z"
-categories: ["Kitchen & Dinning"]
+categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "Beverage Refrigerators"]
 type: "regular" # available types: [featured/regular]
 draft: false
