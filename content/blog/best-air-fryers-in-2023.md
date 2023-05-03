@@ -20,7 +20,7 @@ If you're looking for a quick, easy, and healthy way to cook your favorite meals
 - [Gourmia Air Fryer Oven Digital Display 6 Quart Large AirFryer Cooker 12 1-Touch Cooking Presets, XL Air Fryer Basket 1500w Power Multifunction Black and Stainless Steel Accents FRY FORCE GAF686](#gourmiaairfryerovendigitaldisplay6quartlargeairfryercooker121touchcookingpresetsxlairfryerbasket1500wpowermultifunctionblackandstainlesssteelaccentsfryforcegaf686)
 
 
-[Skip to recommendation](#recommendation)
+[Skip to recommendation](blog/best-air-fryers-in-2023/#recommendation)
 
 
 #### Ninja AF101 Air Fryer that Crisps, Roasts, Reheats, & Dehydrates, for Quick, Easy Meals, 4 Quart Capacity, & High Gloss Finish, Black/Grey {#ninjaaf101airfryerthatcrispsroastsreheatsdehydratesforquickeasymeals4quartcapacityhighglossfinishblackgrey}
