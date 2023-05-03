@@ -4,6 +4,7 @@ description: "AI comparison of the Countertop Burners best seller in 2023"
 date: "2023-05-03T05:51:23.445Z"
 categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "Countertop Burners"]
+image: "https://images-na.ssl-images-amazon.com/images/I/51JfNzC+ysL._AC_UL500_SR800,500_.jpg"
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

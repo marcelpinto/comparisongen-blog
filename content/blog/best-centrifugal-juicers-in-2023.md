@@ -1,10 +1,10 @@
 ---
 title: "Best Centrifugal Juicers in 2023"
 description: "AI comparison of the Centrifugal Juicers best seller in 2023"
-image: "undefined"
 date: "2023-05-03T08:28:01.284Z"
 categories: ["Kitchen & Dining"]
 tags: ["kitchen", "Centrifugal Juicers"]
+image: "https://images-na.ssl-images-amazon.com/images/I/61Op1te11rS._AC_UL500_SR800,500_.jpg"
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

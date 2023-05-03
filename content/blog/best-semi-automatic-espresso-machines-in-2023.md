@@ -4,6 +4,7 @@ description: "AI comparison of the Semi-Automatic Espresso Machines best seller 
 date: "2023-05-02T17:50:37.174Z"
 categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "Semi-Automatic Espresso Machines"]
+image: "https://images-na.ssl-images-amazon.com/images/I/41jroFZ41ML._AC_UL500_SR800,500_.jpg"
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

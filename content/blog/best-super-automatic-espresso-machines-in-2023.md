@@ -4,6 +4,7 @@ description: "AI comparison of the Super-Automatic Espresso Machines best seller
 date: "2023-05-02T19:41:10.098Z"
 categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "Super-Automatic Espresso Machines"]
+image: "https://images-na.ssl-images-amazon.com/images/I/71FBZj9tisL._AC_UL500_SR800,500_.jpg"
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

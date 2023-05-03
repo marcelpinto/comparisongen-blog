@@ -15,6 +15,15 @@ disqusShortname = "dosely" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # example: ["fr"] for disable french language
 
+############################# Open Graph ##############################
+
+[params]
+  description = 'ComparisonGen uses generative AI to create daily comparisons from thousands of user reviews.'
+  images = ['images/comparison-logo-large.png']
+  title = 'ComparisonGen | Find top comparisons'
+[taxonomies]
+  series = 'series'
+
 ############################# Modules ##############################
 [module]
 [module.hugoVersion]
@@ -90,7 +99,7 @@ font_size = "15px" # default is 16px
 # "augmentedFourth": 1.414,
 # "perfectFifth": 1.5,
 # "goldenRatio": 1.618
-font_scale = "1.3" # default is "majorThird": 1.25
+font_scale = "1.25" # default is "majorThird": 1.25
 
 # Give your font name from google font. add font weight using ":wght@" and separate by ";"
 # example: "Work Sans:wght@400;500;600"

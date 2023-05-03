@@ -4,6 +4,7 @@ description: "AI comparison of the Compact Refrigerators best seller in 2023"
 date: "2023-05-03T05:51:32.995Z"
 categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "Compact Refrigerators"]
+image: "https://images-na.ssl-images-amazon.com/images/I/51V+xx59kfL._AC_UL500_SR800,500_.jpg"
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

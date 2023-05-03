@@ -4,6 +4,7 @@ description: "AI comparison of the Stovetop Tea Kettles best seller in 2023"
 date: "2023-05-02T19:41:13.417Z"
 categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "Stovetop Tea Kettles"]
+image: "https://images-na.ssl-images-amazon.com/images/I/71FhBjZzdlS._AC_UL500_SR800,500_.jpg"
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

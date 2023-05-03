@@ -4,6 +4,7 @@ description: "comparing the Electric Pressure Cookers best seller in 2023"
 date: "2023-04-29T19:18:52.510Z"
 categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "Electric Pressure Cookers"]
+image: "https://images-na.ssl-images-amazon.com/images/I/71V1LrY1MSL._AC_UL500_SR800,500_.jpg"
 type: "featured" # available types: [featured/regular]
 draft: false
 ---

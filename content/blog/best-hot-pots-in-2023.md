@@ -4,6 +4,7 @@ description: "AI comparison of the Hot Pots best seller in 2023"
 date: "2023-05-03T06:03:32.141Z"
 categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "Hot Pots"]
+image: "https://images-na.ssl-images-amazon.com/images/I/61LT0uGEhuL._AC_UL500_SR800,500_.jpg"
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

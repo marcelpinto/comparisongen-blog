@@ -1,10 +1,10 @@
 ---
 title: "Best Citrus Juicers in 2023"
 description: "AI comparison of the Citrus Juicers best seller in 2023"
-image: "null"
 date: "2023-05-03T08:31:06.143Z"
 categories: ["Kitchen & Dining"]
 tags: ["kitchen", "Citrus Juicers"]
+image: "https://images-na.ssl-images-amazon.com/images/I/81vGNm-ZwCL._AC_UL500_SR800,500_.jpg"
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

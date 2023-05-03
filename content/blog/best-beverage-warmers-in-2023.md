@@ -4,6 +4,7 @@ description: "AI comparison of the Beverage Warmers best seller in 2023"
 date: "2023-05-02T13:30:26.256Z"
 categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "Beverage Warmers"]
+image: "https://images-na.ssl-images-amazon.com/images/I/61aW+BsVJQL._AC_UL500_SR800,500_.jpg"
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

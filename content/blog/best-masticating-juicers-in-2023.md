@@ -5,6 +5,7 @@ image: "https://images-na.ssl-images-amazon.com/images/I/61IWlW0E1BL._AC_UL300_S
 date: "2023-05-03T08:35:02.224Z"
 categories: ["Kitchen & Dining"]
 tags: ["kitchen", "Masticating Juicers"]
+image: "https://images-na.ssl-images-amazon.com/images/I/61IWlW0E1BL._AC_UL500_SR800,500_.jpg"
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

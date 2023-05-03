@@ -4,6 +4,7 @@ description: "AI comparison of the Mini Donut Makers best seller in 2023"
 date: "2023-05-03T06:03:19.569Z"
 categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "Mini Donut Makers"]
+image: "https://images-na.ssl-images-amazon.com/images/I/71t9neppAtL._AC_UL500_SR800,500_.jpg"
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

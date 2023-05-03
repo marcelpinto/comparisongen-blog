@@ -4,6 +4,7 @@ description: "AI comparison of the Beverage Refrigerators best seller in 2023"
 date: "2023-05-02T11:36:12.396Z"
 categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "Beverage Refrigerators"]
+image: "https://images-na.ssl-images-amazon.com/images/I/71i-bRIua3L._AC_UL500_SR800,500_.jpg"
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

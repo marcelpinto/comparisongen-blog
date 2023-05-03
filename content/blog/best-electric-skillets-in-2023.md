@@ -4,6 +4,7 @@ description: "AI comparison of the Electric Skillets best seller in 2023"
 date: "2023-05-03T05:51:40.982Z"
 categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "Electric Skillets"]
+image: "https://images-na.ssl-images-amazon.com/images/I/612KqsahSgL._AC_UL500_SR800,500_.jpg"
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

@@ -4,6 +4,7 @@ description: "AI comparison of the Manual Espresso Machines best seller in 2023"
 date: "2023-05-02T19:41:12.478Z"
 categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "Manual Espresso Machines"]
+image: "https://images-na.ssl-images-amazon.com/images/I/617KLV5ngJL._AC_UL500_SR800,500_.jpg"
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

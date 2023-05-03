@@ -4,6 +4,7 @@ description: "AI comparison of the Bread Machines best seller in 2023"
 date: "2023-05-02T12:58:39.774Z"
 categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "Bread Machines"]
+image: "https://images-na.ssl-images-amazon.com/images/I/51qiM497ljL._AC_UL500_SR800,500_.jpg"
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

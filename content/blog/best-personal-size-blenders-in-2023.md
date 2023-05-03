@@ -4,6 +4,7 @@ description: "AI comparison of the Personal Size Blenders best seller in 2023"
 date: "2023-05-02T12:58:48.181Z"
 categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "Personal Size Blenders"]
+image: "https://images-na.ssl-images-amazon.com/images/I/61Mnv3A-TLL._AC_UL500_SR800,500_.jpg"
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

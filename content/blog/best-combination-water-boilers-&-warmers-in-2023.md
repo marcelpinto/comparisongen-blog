@@ -4,6 +4,7 @@ description: "AI comparison of the Combination Water Boilers & Warmers best sell
 date: "2023-05-02T19:41:15.620Z"
 categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "Combination Water Boilers & Warmers"]
+image: "https://images-na.ssl-images-amazon.com/images/I/615+oPIow5L._AC_UL500_SR800,500_.jpg"
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

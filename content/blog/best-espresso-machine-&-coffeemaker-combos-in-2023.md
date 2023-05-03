@@ -4,6 +4,7 @@ description: "AI comparison of the Espresso Machine & Coffeemaker Combos best se
 date: "2023-05-02T17:48:04.136Z"
 categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "Espresso Machine & Coffeemaker Combos"]
+image: "https://images-na.ssl-images-amazon.com/images/I/51vlhwGFa1S._AC_UL500_SR800,500_.jpg"
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

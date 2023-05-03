@@ -4,6 +4,7 @@ description: "AI comparison of the Cake Pop Makers best seller in 2023"
 date: "2023-05-03T05:51:46.464Z"
 categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "Cake Pop Makers"]
+image: "https://images-na.ssl-images-amazon.com/images/I/71rNukm7FOL._AC_UL500_SR800,500_.jpg"
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

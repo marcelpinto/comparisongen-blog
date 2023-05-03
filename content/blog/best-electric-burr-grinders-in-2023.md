@@ -4,6 +4,7 @@ description: "AI comparison of the Electric Burr Grinders best seller in 2023"
 date: "2023-05-02T17:48:16.804Z"
 categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "Electric Burr Grinders"]
+image: "https://images-na.ssl-images-amazon.com/images/I/71DeUg8G7kS._AC_UL500_SR800,500_.jpg"
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

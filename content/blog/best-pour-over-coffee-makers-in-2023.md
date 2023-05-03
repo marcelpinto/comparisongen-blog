@@ -4,6 +4,7 @@ description: "AI comparison of the Pour Over Coffee Makers best seller in 2023"
 date: "2023-05-02T17:48:21.376Z"
 categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "Pour Over Coffee Makers"]
+image: "https://images-na.ssl-images-amazon.com/images/I/617aC-uVimL._AC_UL500_SR800,500_.jpg"
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

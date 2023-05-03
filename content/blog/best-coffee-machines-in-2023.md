@@ -4,6 +4,7 @@ description: "AI comparison of the Coffee Machines best seller in 2023"
 date: "2023-05-02T17:43:07.830Z"
 categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "Coffee Machines"]
+image: "https://images-na.ssl-images-amazon.com/images/I/81ugZ2peAgL._AC_UL500_SR800,500_.jpg"
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

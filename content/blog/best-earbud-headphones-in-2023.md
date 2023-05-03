@@ -4,6 +4,7 @@ description: "AI comparison of the Earbud Headphones best seller in 2023"
 date: "2023-05-03T07:17:14.356Z"
 categories: ["Headphones"]
 tags: ["Headphones", "Earbud Headphones"]
+image: "https://images-na.ssl-images-amazon.com/images/I/61Zh467pKjL._AC_UL500_SR800,500_.jpg"
 type: "featured" # available types: [featured/regular]
 draft: false
 ---

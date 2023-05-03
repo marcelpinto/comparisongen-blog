@@ -4,6 +4,7 @@ description: "AI comparison of the Cupcake Makers best seller in 2023"
 date: "2023-05-03T05:51:53.461Z"
 categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "Cupcake Makers"]
+image: "https://images-na.ssl-images-amazon.com/images/I/915neCQ9PIL._AC_UL500_SR800,500_.jpg"
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

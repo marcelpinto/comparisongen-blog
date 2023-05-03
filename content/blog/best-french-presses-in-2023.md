@@ -4,6 +4,7 @@ description: "AI comparison of the French Presses best seller in 2023"
 date: "2023-05-02T17:48:02.850Z"
 categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "French Presses"]
+image: "https://images-na.ssl-images-amazon.com/images/I/71P-Y0GNPkL._AC_UL500_SR800,500_.jpg"
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

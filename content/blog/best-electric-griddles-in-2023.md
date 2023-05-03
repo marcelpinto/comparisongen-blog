@@ -4,6 +4,7 @@ description: "AI comparison of the Electric Griddles best seller in 2023"
 date: "2023-05-03T05:51:42.043Z"
 categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "Electric Griddles"]
+image: "https://images-na.ssl-images-amazon.com/images/I/61zx5d4n1nL._AC_UL500_SR800,500_.jpg"
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

@@ -4,6 +4,7 @@ description: "AI comparison of the Over-Ear Headphones best seller in 2023"
 date: "2023-05-03T07:17:03.761Z"
 categories: ["Headphones"]
 tags: ["Headphones", "Over-Ear Headphones"]
+image: "https://images-na.ssl-images-amazon.com/images/I/61kV3qWxT-L._AC_UL500_SR800,500_.jpg"
 type: "featured" # available types: [featured/regular]
 draft: false
 ---

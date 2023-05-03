@@ -4,6 +4,7 @@ description: "AI comparison of the Electric Coffee Percolators best seller in 20
 date: "2023-05-02T17:47:59.431Z"
 categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "Electric Coffee Percolators"]
+image: "https://images-na.ssl-images-amazon.com/images/I/412RnRftQgL._AC_UL500_SR800,500_.jpg"
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

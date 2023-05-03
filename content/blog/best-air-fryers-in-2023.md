@@ -4,7 +4,8 @@ description: "AI comparison of the Air Fryers best seller in 2023"
 date: "2023-05-03T06:03:43.763Z"
 categories: ["Kitchen & Dining"]
 tags: ["Small Appliances", "Air Fryers"]
-type: "regular" # available types: [featured/regular]
+image: "https://images-na.ssl-images-amazon.com/images/I/71+8uTMDRFL._AC_UL500_SR800,500_.jpg"
+type: "featured" # available types: [featured/regular]
 draft: false
 ---
 If you're looking for a quick, easy, and healthy way to cook your favorite meals, an air fryer might be the perfect appliance for you. The market for air fryers is growing rapidly, with new and improved models hitting the market every year. In this post, we'll be taking a closer look at some of the best air fryers available in 2023. We'll cover models like the Ninja AF101 Air Fryer, the Instant Pot Vortex 4-in-1, the COSORI Air Fryer Pro LE, the Ninja AF161 Max XL Air Fryer, the Ninja DZ201 Foodi 8 Quart 6-in-1 DualZone 2-Basket Air Fryer, the Ninja DZ090 Foodi 6 Quart 5-in-1 DualZone 2-Basket Air Fryer, and the Gourmia Air Fryer Oven. With so many great options to choose from, finding the perfect air fryer for your kitchen has never been easier.
