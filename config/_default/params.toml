@@ -41,7 +41,7 @@ no_tags_found = "No Tags Found"
 
 mainSections = ["blog"]
 # about widget content
-about_widget_content = "TODO"
+about_widget_content = "Our algorithm uses generative AI to parse thousands of user reviews and create comparisons for you"
 # footer content
 footer_content = "Daily AI reviews and comparisons for you"
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
@@ -84,7 +84,7 @@ button = "I like cookies"
 
 ######################## sidebar widgets #########################
 [widgets]
-sidebar = ["categories", "recent-post", "newsletter"]
+sidebar = ["about", "recent-post", "newsletter"]
 # available widget : about,categories,newsletter,recent-post
 
 
