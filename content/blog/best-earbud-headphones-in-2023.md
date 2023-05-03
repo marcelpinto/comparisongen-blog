@@ -2,8 +2,8 @@
 title: "Best Earbud Headphones in 2023"
 description: "AI comparison of the Earbud Headphones best seller in 2023"
 date: "2023-05-03T07:17:14.356Z"
-categories: ["Range"]
-tags: ["Range", "Earbud Headphones"]
+categories: ["Headphones"]
+tags: ["Headphones", "Earbud Headphones"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

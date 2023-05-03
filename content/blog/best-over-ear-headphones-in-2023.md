@@ -2,8 +2,8 @@
 title: "Best Over-Ear Headphones in 2023"
 description: "AI comparison of the Over-Ear Headphones best seller in 2023"
 date: "2023-05-03T07:17:03.761Z"
-categories: ["Range"]
-tags: ["Range", "Over-Ear Headphones"]
+categories: ["Headphones"]
+tags: ["Headphones", "Over-Ear Headphones"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
