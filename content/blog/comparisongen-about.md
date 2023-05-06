@@ -42,3 +42,7 @@ ComparisonGen.com has big plans for growth and expansion, including adding new f
 ### Conclusion
 
 ComparisonGen.com is the site for consumers looking for unbiased reviews, generated using the latest AI technology. By removing the potential for bias common in traditional review sites, ComparisonGen.com allows consumers to purchase products or services with confidence, knowing they have access to reviews they can trust. As the site grows and evolves, its focus on user trust and reliability will remain paramount. Try out ComparisonGen.com today and see for yourself how AI technology can change the way you make purchasing decisions.
+
+----
+
+* <a href="https://www.flaticon.com/free-icons/rate" title="rate icons">Rate icons created by Freepik - Flaticon</a>

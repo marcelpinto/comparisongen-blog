@@ -17,8 +17,8 @@ author = "ComparisonGen.com"
 image = "images/comparison-logo-large.png" # this image will be used as fallback if a page has no image of its own
 # contact info
 address = "with ❤️ from Munich"
-mobile = "linktr.ee/marcelpinto"
-email = "info@comparisongen.com"
+mobile = "-"
+email = "hi@comparisongen.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # search
