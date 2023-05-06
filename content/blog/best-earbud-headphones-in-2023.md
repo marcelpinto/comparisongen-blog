@@ -5,7 +5,7 @@ date: "2023-05-03T07:17:14.356Z"
 categories: ["Headphones"]
 tags: ["Headphones", "Earbud Headphones"]
 image: "https://images-na.ssl-images-amazon.com/images/I/61Zh467pKjL._AC_UL500_SR800,500_.jpg"
-type: "featured" # available types: [featured/regular]
+type: "regular" # available types: [featured/regular]
 draft: false
 ---
 Are you tired of your headphones dying halfway through your favorite podcast or workout? Upgrade to the best earbud headphones of 2023. With options ranging from wireless to wired, noise cancelling to personalized spatial audio, and even waterproof features, there's a pair for everyone. Explore the latest models from Apple, including the AirPods 2nd Generation and AirPods Pro 2nd Generation with new and improved features such as adaptive transparency and up to 2x more active noise cancelling. Don't worry if you prefer wired options, Apple EarPods with Lightning Connector or 3.5mm Plug are still available with the added convenience of a built-in microphone to control music, phone calls, and volume. For those on a budget, check out the TOZO A1 Mini Wireless Earbuds or the CXK Wireless Earbuds, which offer long distance connection and up to 43 hours of playtime. Finally, the TOZO T6 True Wireless Earbuds with wireless charging and premium deep bass are perfect for audiophiles. Say goodbye to constant charging and hello to unparalleled sound.
