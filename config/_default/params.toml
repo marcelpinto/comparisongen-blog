@@ -87,7 +87,7 @@ button = "I like cookies"
 
 ######################## sidebar widgets #########################
 [widgets]
-sidebar = ["about", "recent-post", "newsletter"]
+sidebar = ["about", "categories", "recent-post", "newsletter"]
 # available widget : about,categories,newsletter,recent-post
 
 
@@ -111,20 +111,20 @@ newsletter_button = "Sign in"
 # icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
 # link = "#"
 
-# [[social]]
-# title = "twitter"
-# icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
-# link = "#"
+[[social]]
+title = "twitter"
+icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
+link = "https://twitter.com/Comparison_Gen"
 
 # [[social]]
 # title = "instagram"
 # icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
 # link = "#"
 
-# [[social]]
-# title = "github"
-# icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
-# link = "#"
+[[social]]
+title = "github"
+icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://github.com/marcelpinto"
 
 # [[social]]
 # title = "linkedin"
