@@ -19,7 +19,7 @@ disableLanguages = [] # example: ["fr"] for disable french language
 
 [params]
   description = 'ComparisonGen uses generative AI to create daily comparisons from thousands of user reviews.'
-  images = ['images/comparisongen-social-logo.png']
+  images = ['comparisongen-social-logo.png']
   title = 'ComparisonGen | Find top comparisons'
 
 ############################# Modules ##############################
