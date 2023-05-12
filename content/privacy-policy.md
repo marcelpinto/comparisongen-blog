@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 description: "this is meta-description"
 draft: false
-
+sitemap_ignore: true
 ---
 
 <h1>Privacy Policy for ComparisonGen</h1>

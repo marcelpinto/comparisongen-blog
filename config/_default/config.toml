@@ -15,6 +15,15 @@ disqusShortname = "dosely" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # example: ["fr"] for disable french language
 
+[taxonomies]
+  tag = ""
+  category = "categories"
+
+[sitemap]
+  changefreq = 'daily'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
 ############################# Open Graph ##############################
 
 [params]
