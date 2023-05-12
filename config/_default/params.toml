@@ -14,7 +14,7 @@ navbar_fixed = false
 # OpenGraph / Twitter Card metadata
 description = "ComparisonGen: using generative AI to create daily comparisons from thousands of user reviews."
 author = "ComparisonGen.com"
-image = "images/comparison-logo-large.png" # this image will be used as fallback if a page has no image of its own
+images = ["comparisongen-social-logo.png"] # this image will be used as fallback if a page has no image of its own
 # contact info
 address = "with ❤️ from Munich"
 mobile = "-"
