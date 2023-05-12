@@ -67,10 +67,10 @@ preloader = "images/banner.png" # use jpg, png, svg or gif format.
 enable = true
 title_large = "Comparison**Gen**"
 title_small = "Daily AI reviews"
-image = "images/banner.png"
+#image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
 content = "Using generative AI to create daily unbiased comparisons from thousands of trusted user reviews."
-button_label = "Reviews"
+button_label = ""
 button_link = "categories/"
 
 # Advertise - TODO enable adds here or custom promos
