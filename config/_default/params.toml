@@ -55,7 +55,7 @@ error_404_text = "404 Page Not Found!"
 error_404_button = "Back To Home"
 
 # google adsense, see https://www.google.com/adsense/
-google_adsense = "ca-pub-8813458801483229" # example: ca-pub-XXXXXXXXXX
+# google_adsense = "ca-pub-8813458801483229" # example: ca-pub-XXXXXXXXXX
 
 # Preloader
 [preloader]
