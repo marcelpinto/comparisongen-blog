@@ -15,6 +15,8 @@ disqusShortname = "dosely" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # example: ["fr"] for disable french language
 
+enableRobotsTXT = true
+
 [taxonomies]
   tag = ""
   category = "categories"
