@@ -1,6 +1,6 @@
 #################### default parameters ################################
 # favicon
-favicon = "images/comparison-logo-square.png"
+favicon = "images/favicon.png"
 # logo
 logo = "images/comparison-logo-large.png"
 # use `x` with logo_width, example: "100x".
@@ -60,18 +60,18 @@ error_404_button = "Back To Home"
 # Preloader
 [preloader]
 enable = false
-preloader = "images/banner.png" # use jpg, png, svg or gif format.
+preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 
 # Banner
 [banner]
 enable = true
 title_large = "Comparison**Gen**"
 title_small = "Daily AI reviews"
-#image = "images/banner.png"
+image = ""
 background_image = "/images/banner-bg-shape.svg"
 content = "Using generative AI to create daily unbiased comparisons from thousands of trusted user reviews."
-button_label = ""
-button_link = "categories/"
+button_label = "Download app"
+button_link = "https://play.google.com/store/apps/details?id=com.comparisongen.android"
 
 # Advertise - TODO enable adds here or custom promos
 # [advertisement]
