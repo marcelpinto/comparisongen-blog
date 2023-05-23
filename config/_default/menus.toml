@@ -12,22 +12,9 @@ url = "contact/"
 weight = 2
 
 [[main]]
-name = "Reviews"
-url = "#"
+name = "Categories"
+url = "categories/"
 weight = 3
-hasChildren = true
-
-  [[main]]
-  parent = "Reviews"
-  name = "Tags"
-  url = "tags/"
-  weight = 1
-
-  [[main]]
-  parent = "Reviews"
-  name = "Categories"
-  url = "categories/"
-  weight = 2
 
 # footer menu
 [[footer]]
