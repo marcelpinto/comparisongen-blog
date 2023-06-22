@@ -5,7 +5,7 @@ image: "https://images-na.ssl-images-amazon.com/images/I/61eqNRPW8mL._AC_UL500_S
 date: "2023-05-06T13:31:16.261Z"
 categories: ["Kitchen dining"]
 tags: ["Small Appliances", "Electric Can Openers"]
-type: "featured" # available types: [featured/regular]
+type: "regular" # available types: [featured/regular]
 draft: false
 ---
 
