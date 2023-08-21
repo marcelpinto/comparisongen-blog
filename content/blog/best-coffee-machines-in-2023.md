@@ -250,3 +250,5 @@ If you're looking for a coffee maker that produces a more flavorful, hotter brew
 Lastly, those who value ease of use and affordability may like the Black+Decker CM1160B 12-Cup Programmable Coffee Maker, Black/Stainless Steel. Its straightforward design and programmable features offer the convenience of pre-setting a pot of coffee at a reasonable price. However, some customers have reported issues with the carafe handle and confusing instructions. 
 
 Ultimately, the best option depends on individual preferences and needs. Keeping all the pros and cons in mind, select the coffee maker that suits your budget, usage, features, and aesthetic preferences.
+
+> This article is also available in Catalan at [compara.cat](https://compara.cat/posts/comparacio-cafeteres-pros-contres-2023/)

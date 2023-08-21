@@ -31,3 +31,8 @@ weight = 3
 name = "Privacy Policy"
 url = "privacy-policy/"
 weight = 4
+
+[[footer]]
+name = "Compara.cat"
+url = "https://compara.cat"
+weight = 5
